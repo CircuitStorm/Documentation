@@ -1,6 +1,26 @@
-# Documentation
+#
 
-The documentation for all of CircuitStorm's software.
+## Build Documentation
+
+The documentation is built using vitepress. It can be built locally using the following commands:
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Build the documentation
+
+```bash
+npm run build
+```
+
+### Serve the documentation
+
+```bash
+npm run dev
+```
 
 ## License
 
